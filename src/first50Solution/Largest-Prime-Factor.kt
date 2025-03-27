@@ -1,3 +1,5 @@
+package src.first50Solution
+
 fun main(){
     var number = 600851475143L
     var factors = mutableListOf<Long>()

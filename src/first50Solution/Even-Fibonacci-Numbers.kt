@@ -1,3 +1,5 @@
+package src.first50Solution
+
 //kotlin solution 3/29/2024
 fun main() {
     val limit = 4000000

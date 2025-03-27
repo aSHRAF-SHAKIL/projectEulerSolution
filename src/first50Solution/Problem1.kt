@@ -1,3 +1,5 @@
+package src.first50Solution
+
 //kotlin solution 03/27/2024
 
 fun main() {
